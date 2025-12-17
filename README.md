@@ -9,7 +9,7 @@
 
 ## 🚀 Project Overview
 
-The **Campus Event Portal & Email Notifier** is an integrated web-based system designed to solve problem of inconsistent and often missed communication within  institutions. It centralizes all academic, placement, workshop, and administrative announcements into a single, unified portal and automatically notifies subscribed students via real-time email alerts.
+The **Campus Event Portal & Email Notifier** is an integrat web-based system designed to solve problem of inconsistent and often missed communication within  institutions. It centralizes all academic, placement, workshop, and administrative announcements into a single, unified portal and automatically notifies subscribed students via real-time email alerts.
 
 This system moves communication away from informal channels (like WhatsApp groups and manual emails) to provide a streamlined, organized, and reliable information flow.
 
