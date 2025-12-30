@@ -16,9 +16,9 @@ This system moves communication away from informal channels (like WhatsApp group
 ## ✨ Key Features
 
 * **Centralized Event Feed:** Students can view all upcoming events (title, description, date, time, location) in one responsive web portal.
-* **Secure Authentication:** Faculty and administrators can securely log in to post new events.
+* **Secure Authentication:** Faculty and administrators can securely log in  post new events.
 * **Category-Based Subscription:** Students can subscribe to specific categories of interest (e.g., **Placement**, **Technical**, **Cultural**, **Sports**, **Academic Notices**).
-* **Smart Email Notification Module:** Utilizes **JavaMailSender** to automatically retrieve the list of subscribed students and send personalized email alerts in real time whenever a new event is posted in their chosen category.
+* **Smart Email Notification Module:** Utilizes **JavaMailSender** to automatically retrieve the list of subscribed students and send personalized email alerts in real time whenever new event is posted in their chosen category.
 * **Robust Data Management:** All user data, event details, and subscription preferences are managed securely using a **MySQL database**.
 
 ## 🛠️ Technology Stack
